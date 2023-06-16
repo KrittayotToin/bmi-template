@@ -1,0 +1,54 @@
+ #main {
+     border: 1px solid #c3c3c3;
+     display: flex;
+     flex-direction: column;
+
+ }
+
+
+
+ .header {
+     position: absolute;
+     color: white;
+     top: 10%;
+     left: 40%;
+      font-family: 'Open Sans', sans-serif;
+ }
+
+
+ 
+
+ label {
+     margin-bottom: 10px;
+ }
+
+ 
+
+ img:hover {
+     opacity: 0.5;
+     position: relative;
+ }
+
+
+.underline-input {
+  border: none;
+  border-bottom: 1px solid black;
+  background-color: transparent;
+  padding: 0;
+  outline: none;
+  margin-bottom: 4px;
+}
+
+label {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.BMI {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0px;
+}
+
+.bgGreen {
+    background-color: green;
+}
